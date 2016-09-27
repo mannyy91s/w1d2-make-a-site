@@ -6,25 +6,20 @@ body {
     margin-top: 200px;
     border-style: inherit;
 }
-
 main{
     background-color: white;
     padding:30px;
 }
-
 header {
     font-family: 'Montserrat', sans-serif;
     position: fixed;
     width: 100%;
     top:0px;
 }
-
 button:hover{
     text-align: center;
     transition:0.3 ease;
-    /*transform: scale(-0.9);*/
 }
-
 .orange-text{
     background: #466362;
     color: gold;
@@ -53,7 +48,6 @@ button:hover{
 img{
     border-radius:15px;
 }
-
 .avatar-pic{
     border-radius: 50%;
     border: solid;
@@ -77,7 +71,6 @@ footer div {
     width: 25%;
     float: left;
 }
-
 .top-buttons{
     width:25%;
 }
